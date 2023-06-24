@@ -26,6 +26,7 @@ const DragDropFile = ({ handleFile }) => {
           alt=""
           width={"20px"}
         />
+
         <span className="px-2 text-secondary">
           Upload or Drop your file here
         </span>
