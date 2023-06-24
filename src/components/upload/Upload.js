@@ -47,11 +47,11 @@ const Upload = () => {
               ) : (
                 <>
                   <div className="d-flex align-middle h-75">
-                    {/* <img
+                    <img
                       src="https://cdn-icons-png.flaticon.com/512/656/656393.png"
                       alt=""
                       width={50}
-                    /> */}
+                    />
 
                     <div className="">
                       <p className="text-secondary">{file.name}</p>
